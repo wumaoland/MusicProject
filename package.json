@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/Planet-Tao/MusicProject#readme",
   "devDependencies": {
+    "qrcodejs2": "0.0.2",
+    "webpack": "^4.0.1",
     "webpack-cli": "^3.3.12"
   }
 }
